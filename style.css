@@ -1,0 +1,13 @@
+.baú_carvão{ /* . = class */
+    color: fuchsia;
+
+}
+#carvao{ /* # = id */
+    color: aquamarine;
+}
+body{
+    background-color: black; 
+}
+header{
+    background-color: brown;
+}
